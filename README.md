@@ -16,7 +16,7 @@ Basic text cleaning procedures like removing emojis, web links, HTML tags, speci
 
 ## Model
 * This approach consists of a vanilla **bert-base-uncased** model finetuned on our dataset using **PyTorch**.
-* I have also demonstrated the use for no-decay to imrpve model performance.
+* I have also demonstrated the use for no-decay to improve model performance.
 * Other Deep Learning concepts like Optimizer, scheduler, dropout etc have been covered with their implementation in Pytorch.
 
 ## Performance:-  
